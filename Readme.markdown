@@ -11,8 +11,7 @@ dependencies.
 
 1. Install Python Requirements
 
-        pip install -r requirements.txt
-        python setup.py develop
+        pip install -r dev-requirements.txt
 
 2. Setup the Database
 

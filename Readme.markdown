@@ -2,7 +2,7 @@
 
 This sample project is the companion of a [blog
 post](http://kevinastone.github.io/django-model-descriptors.html) on patterns
-for building better models and fiels using Descriptors.
+for building better models and fields using Descriptors.
 
 ## Setup
 
